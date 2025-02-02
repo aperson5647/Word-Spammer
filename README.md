@@ -14,12 +14,13 @@
 * **SPAMS WORDS VERY FAST!**
 * **USES CLIPBOARD TO PREVENT LAG AT HIGH SPEEDS!**
 * **HAS A NICE ICON!**
+* **PROBABLY ONLY WORKS ON WINDOWS!**
 
 
 ## **HOW DO I INSTALL THIS?**
 
 ### **OPTION A**
-[Download](https://www.youtube.com/watch?v=dQw4w9WgXcQ) the .EXE then run it. <!-- LINK IS A PLACEHOLDER RICKROLL -->
+[Download](https://github.com/aperson5647/Word-Spammer/releases) the .EXE then run it. <!-- LINK IS A PLACEHOLDER RICKROLL -->
 
 ### **OPTION B**
 If you **do not** trust the .EXE, clone the repository by running these commands:
