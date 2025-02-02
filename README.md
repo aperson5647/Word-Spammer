@@ -24,7 +24,7 @@
 ### **OPTION B**
 If you **do not** trust the .EXE, clone the repository by running these commands:
 
-**⚠(REMEMBER TO CHANGE DIRECTORY TO SOMETHING LIKE DESKTOP!! DO NOT CLONE TO SYSTEM32!!)⚠**
+**(REMEMBER TO CHANGE DIRECTORY TO SOMETHING LIKE DESKTOP!! DO NOT CLONE TO SYSTEM32!!)**
 ``` Cloning Repo
 git clone https://github.com/aperson5647/Word-Spammer.git
 
