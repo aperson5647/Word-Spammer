@@ -41,3 +41,5 @@ window.geometry('400x500')
 window.minsize(200,300)
 
 window.mainloop()
+
+# hi
