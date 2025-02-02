@@ -104,7 +104,7 @@ keyboard.add_hotkey('F6', lambda: toggle_buttons())
 
 window.mainloop()
 
-# hi
+# hi :D
 
 # Copyright (c) 2025 aperson5647
 # Released under the MIT License
