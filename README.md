@@ -4,11 +4,6 @@
 ## **WHAT IS THIS?**
 
 `¯\_(ツ)_/¯` 
-<details>
-  <summary>PERSONAL MESSAGES TO MYSELF (DO NOT READ!!)</summary>
-
-  - FINISH THIS NOW THIS YOU LAZY BASTARD
-</details>
 
 ### **FEATURES**
 * **SPAMS WORDS VERY FAST!**
